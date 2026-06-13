@@ -1,5 +1,5 @@
 /* Configuración Base para Fetch */
-const API_URL = 'http://localhost:3000/api';
+const API_URL = 'https://blog-de-noticias-plataforma-cms-full.onrender.com/api';
 
 // Función para obtener headers con token
 const getAuthHeaders = () => {
