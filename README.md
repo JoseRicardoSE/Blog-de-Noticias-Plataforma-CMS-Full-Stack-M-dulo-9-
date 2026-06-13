@@ -8,6 +8,11 @@ Un sistema de gestión de contenidos (CMS) moderno y dinámico diseñado para la
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-339933)
 ![PostgreSQL](https://img.shields.io/badge/Base_de_Datos-PostgreSQL-336791)
 
+## 🌐 Demo en Vivo
+Puedes ver y probar la aplicación desplegada en el siguiente enlace:
+👉 **[Blog de Noticias M9 (Netlify + Render)](https://blog-noticias-jose-m9.netlify.app/index.html)**
+
+
 ## ✨ Funcionalidades Principales
 
 *   **Arquitectura MVC Robusta**: Separación clara entre Rutas, Controladores y Modelos en el backend.
